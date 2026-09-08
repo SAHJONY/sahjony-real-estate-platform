@@ -1,3 +1,14 @@
+# Legacy Real Estate Platform — Consolidated into Wholesale Real Estate
+
+> **This is not a separate SAHJONY business or application.**  
+> `CIMA`, `CIMA Real Estate`, and `sahjony-real-estate-platform` are historical aliases of **Wholesale Real Estate**.  
+> **Canonical production application:** `SAHJONY/Wholesale--ops-app`  
+> New real-estate development, CRM workflows, Sofía routing, voice, WhatsApp, dashboards, underwriting, acquisition, disposition, and automation belong in the canonical Wholesale Real Estate application.
+
+This repository is retained only as legacy source/history so useful code can be migrated without losing provenance.
+
+---
+
 <div align="center">
 
 <img src="./public/hermes-avatar.webp" alt="Hermes Workspace" width="80" style="border-radius: 16px" />
